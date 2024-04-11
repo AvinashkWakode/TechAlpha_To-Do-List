@@ -1,9 +1,10 @@
-This is a simple Age Calculator web application that calculates a person's age based on the provided date of birth.
-
-How to Use
-Enter your date of birth in the provided fields (Day, Month, Year).
-Click on the "Calculate Age" button.
-Your age will be displayed below the form.
+his To-Do List web application allows users to add, delete, and mark tasks as completed.
+Features
+Add tasks: Enter a task in the input field and click "Add Task" to add it to the list.
+Delete tasks: Each task has a delete button to remove it from the list.
+Mark tasks as completed: Click on the "Complete" button next to a task to mark it as completed. Completed tasks will have a line-through effect.
+Responsive design: The app is designed to work seamlessly across various devices.
 Technologies Used
 HTML
 CSS
+JavaScript
